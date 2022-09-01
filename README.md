@@ -7,8 +7,8 @@ Database:
 
 Initial Prompt For User:
 
-<img width="644" alt="image" src="https://user-images.githubusercontent.com/81287555/188027146-6a0dca79-e8e7-4a14-b1b6-40df5bba511f.png">
+<img width="797" alt="image" src="https://user-images.githubusercontent.com/81287555/188027827-8ad3bff5-0565-490d-9bac-fc69308d443a.png">
 
-Result of Program:
+Example Result of Running The Program:
 
 <img width="447" alt="image" src="https://user-images.githubusercontent.com/81287555/188027181-3a0323d2-06e6-4a1b-b0f9-2a922ebf8a10.png">
