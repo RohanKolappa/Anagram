@@ -1,5 +1,5 @@
 # Anagram
-This program uses Python, Flask, and MySQL to check if two strings entered by the user (on a web page) are an anagram. The result, along with the two strings, is stored in a relational database. If the same pair of strings is entered again, the result stored in the database will be returned and the strings will not be added to the MySQL database. However, if a unique pair of strings is entered, the strings and result will be added to the database and the result will be printed to the screen for the user to see.
+This program uses Python, Flask, and MySQL to check if two strings entered by the user (on a web page) are an anagram. The result, along with the two strings, is stored in a relational database. If the same pair of strings is entered again, the result stored in the database will be returned and the strings will not be added to the MySQL database. However, if a unique pair of strings is entered, the strings and result will be added to the database and the result will be printed to the screen for the user to see. The mysql-connector-python and flask modules were used as well.
 
 Database:
 
