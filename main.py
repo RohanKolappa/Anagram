@@ -16,7 +16,7 @@ def enterStrings():
     string2 = request.form["Second String"].lower()
 
 
-    db = mysql.connector.connect(user='root', password='Lablix12',
+    db = mysql.connector.connect(user='root', password='password', #replaced original password with 'password'
                                  host='127.0.0.1',
                                  database='anagram')
     cur = db.cursor(buffered=True)
@@ -43,7 +43,7 @@ def anagramLogic(string1, string2):
     if sorted(string1) == sorted(string2):
         flag = True
 
-    db = mysql.connector.connect(user='root', password='Lablix12',
+    db = mysql.connector.connect(user='root', password='password', #replaced original password with 'password'
                                   host='127.0.0.1',
                                   database='anagram')
 
